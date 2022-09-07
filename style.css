@@ -1,0 +1,65 @@
+img[src="./assets/Logo.png"]
+{
+  position: absolute;
+  top: 30px;
+  left: 60px;
+  height: 40px;
+}
+
+.list {
+  position: absolute;
+  top: 20px;
+  right: 600px;
+}
+.list-item {
+  display: inline;
+  padding: 10px;
+}
+.list-item :first-of-type
+{
+  margin-top: 50px;
+}
+.nav-button
+{
+  position: absolute;
+  top: 20px;
+  right:100px;
+  background-color: #5955b3;
+  color: #ffff;
+  border-radius: 5px;
+  border: transparent;
+  height: 40px;
+   
+}
+.nav-buttonbtn {
+  position: absolute;
+  top: 500px;
+  left: 100px;
+  color: white;
+  border-color: transparent;
+  background-color: #5955b3;
+  border-radius: 5px;
+  height: 50px;
+  width: 200px;
+}
+.heading-text {
+  font-size: 60px;
+  max-width: 400px;
+  margin-left: 30px;
+  margin-top: 150px;
+}
+img[src="./assets/Header Illustration.png"] {
+  position: absolute;
+  top: 100px;
+  right: 20px;
+  height: 400px;
+  width: 800px;
+}
+.description {
+  max-width: 400px;
+  margin-left: 30px;
+}
+ 
+span {
+  color: #5955b3;
+}
